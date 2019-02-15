@@ -46,7 +46,7 @@ echo $white"""\a
 				  https://github.com/4L13199
 		site		: 
 				  http://anrwiki.blogspot.com
-				  http://www.kumandroid.ml
+				  https://blackhydraofficial.blogspot.com/
 		Youtube		:
 				  Indonesia Security Lite
 				 
