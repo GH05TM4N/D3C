@@ -1,4 +1,4 @@
-# MUDASHR HACKS
+# DARK 3XPLOIT CYBER
  
 This Tool is **presented** by ***indonesian security lite*** 
 The usefulness of this tool is just to install various other tools
@@ -12,10 +12,10 @@ Install
 apt upgrade && apt update -y
 apt install git
 
-git clone https://github.com/Ghostman/mudashr.git
+git clone https://github.com/Ghostman/D3C.git
 
-cd mudashr
-sh mudashr.sh
+cd D3C
+sh d3c.sh
 ```
 
 
@@ -30,4 +30,4 @@ sh mudashr.sh
  ***Thanks To***
 	
 	   ISL ( INDONESIA SECURITY LITE )
-	   ALL MEMBER MDSHR ( MUDASHR HACKS )
+	   ALL MEMBER MDSHR ( DARK 3XPLOIT CYBER )
