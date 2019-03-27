@@ -12,7 +12,7 @@ Install
 apt upgrade && apt update -y
 apt install git
 
-git clone https://github.com/Ghostman/D3C.git
+git clone https://github.com/GH05TM4N/D3C.git
 
 cd D3C
 sh d3c.sh
